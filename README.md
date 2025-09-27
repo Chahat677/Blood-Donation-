@@ -5,7 +5,7 @@ Blood Donation Management System ek web-based project hai jisme donors aur recip
 
 ## ✨ Features
 - Donor Registration & Login  
-- Search Blood by Group/Location  
+- Search Blood by Group 
 - Request for Blood  
 - Manage Donation History  
 - Admin Panel for monitoring  
